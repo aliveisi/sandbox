@@ -2,6 +2,16 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-08 19:34 IR
+- 🗜️ [ChromeStandaloneSetup64.exe.zip](https://github.com/aliveisi/sandbox/raw/main/dl/ChromeStandaloneSetup64.exe.zip) `43.0MB`
+
+- 🗜️ [ChromeStandaloneSetup64.exe.z01](https://github.com/aliveisi/sandbox/raw/main/dl/ChromeStandaloneSetup64.exe.z01) `95.0MB`
+
+- 🗜️ [ChromeStandaloneSetup64.exe.zip](https://github.com/aliveisi/sandbox/raw/main/dl/ChromeStandaloneSetup64.exe.zip) `43.0MB`
+
+---
+
+
 ### 📅 2026-05-07 13:24 IR
 - 🗜️ [php-8.5.6-nts-Win32-vs17-x64.zip](https://github.com/aliveisi/sandbox/raw/main/dl/php-8.5.6-nts-Win32-vs17-x64.zip) `34.2MB`
 
